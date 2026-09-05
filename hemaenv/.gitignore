@@ -1,0 +1,8 @@
+hemaenv/
+__pycache__/
+.deepeval/
+.deepeval-cache.json
+.deepeval_telemetry.txt
+.latest_run_full.json
+.latest_test_run.json
+.env
